@@ -1,0 +1,13 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    width: 335px;
+    height: 30px;
+    float: right;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
